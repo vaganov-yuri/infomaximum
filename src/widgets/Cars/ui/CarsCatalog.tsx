@@ -33,6 +33,9 @@ export const CarsCatalog: FC<IProps> = ({ items }) => {
                     ButtonFavorite={ButtonFavoriteHeart}
                 />
             ))}
+            <div></div>
+            <div></div>
+            <div></div>
         </CatalogList>
     )
 }
